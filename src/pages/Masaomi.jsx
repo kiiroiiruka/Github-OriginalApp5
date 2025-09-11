@@ -1,5 +1,5 @@
 const Masaomi = () => {
-	return <div></div>;
+	return <div>sssssssssssssssssssまさおみ</div>;
 };
 
 export default Masaomi;
